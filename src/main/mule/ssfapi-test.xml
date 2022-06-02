@@ -4,6 +4,6 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
 	<flow name="ssfapi-testFlow" doc:id="fb1d67ba-fdbe-4464-bc3b-74d3090861a4" >
-		<logger level="INFO" doc:name="Logger" doc:id="14d8c719-e796-4fcc-95fa-3fd1b898ffc4" message="This is new"/>
+		<logger level="INFO" doc:name="Logger" doc:id="14d8c719-e796-4fcc-95fa-3fd1b898ffc4" message="Test 2"/>
 	</flow>
 </mule>
